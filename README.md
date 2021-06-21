@@ -21,7 +21,7 @@ Service: refers to the service provided by Droidpedia Todo List as described in 
 Third-party service: refers to advertisers, contest sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may interest you.
 
 
-Website: SimpleTechAmk's site, which can be accessed via this URL:
+Website: SimpleTechAmk's site, which can be accessed via this URL: https://github.com/SimpleTechAmk/Privacy-Policy/blob/main/README.md
 
 
 You: a person or entity that is registered with SimpleTodo to use the Services.
